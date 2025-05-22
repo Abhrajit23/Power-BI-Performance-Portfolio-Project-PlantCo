@@ -1,7 +1,7 @@
 
 # 📊 Power BI Performance Portfolio Project – PlantCo
 
-### By: \[Mo & Nicole | Power BI Masterclass Series]
+### By: Abhrajit Das
 
 ---
 
